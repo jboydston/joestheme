@@ -9,6 +9,10 @@
  * @since Twenty Twelve 1.0
  */
 ?>
+<?php
+var_dump ($_POST);
+?>
+
 <div id="secondary" class="widget-area" role="complementary">
 	<?php
 	   $args = array(
