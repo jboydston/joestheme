@@ -1,0 +1,11 @@
+/*
+Theme Name:     live tests
+Theme URI:      http://example.com/
+Description:    Child theme for the Twenty Twelve theme
+Author:         Joe & Dean
+Author URI:     http://example.com/about/
+Template:       twentytwelve                             
+Version:        0.1.0
+*/
+
+@import url("../twentytwelve/style.css");
